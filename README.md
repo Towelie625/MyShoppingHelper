@@ -1,6 +1,6 @@
 # MyShoppingHelper
 
-Der Code ist unter dem Verzeichnis "grocery" zum Hauptsächlichem in den folgenden Dateien
+Der Code ist unter dem Verzeichnis "grocery" zum Hauptsächlichen in den folgenden Dateien
 
 1. ContentView.swift (Haupt-Datei)
 2. Produkt-Katalog/Produktkatalog.swift
